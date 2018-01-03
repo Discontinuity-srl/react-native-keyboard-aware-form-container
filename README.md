@@ -54,4 +54,4 @@ const styles = StyleSheet.create({
 Copyright (c) 2017 Discontinuity s.r.l.
 Available under the MIT license.
 
-This component is build up the [react-native-scroll-view-keyboard-manager](https://github.com/Discontinuity-srl/react-native-scroll-view-keyboard-manager)
+This component is built on the [react-native-scroll-view-keyboard-manager](https://github.com/Discontinuity-srl/react-native-scroll-view-keyboard-manager)
