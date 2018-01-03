@@ -12,7 +12,7 @@ Features:
 ## Installation
 
 ```
-npm install react-native-keyboard-aware-form
+npm install @discontinuity/react-native-keyboard-aware-form
 ```
 
 ## Usage
