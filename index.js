@@ -8,7 +8,7 @@ import {
   Platform,
 } from "react-native"
 import AndroidKeyboardAdjust from "react-native-android-keyboard-adjust"
-
+import
 import ScrollViewKeyboardManager, {
   ANDROID_SOFT_INPUT_MODES,
 } from "@discontinuity/react-native-scroll-view-keyboard-manager"
@@ -19,7 +19,7 @@ const IS_ANDROID = Platform.OS === "android"
 
 // ----------------------------------------------------------------------------
 
-export class KeyboardAwareForm extends React.Component {
+export class KeyboardAwareFormContainer extends React.Component {
   static propTypes = {
     children: PropTypes.any.isRequired,
     containerStyle: PropTypes.number,

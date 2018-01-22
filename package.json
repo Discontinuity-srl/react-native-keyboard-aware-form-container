@@ -1,12 +1,14 @@
 {
-  "name": "@discontinuity/react-native-keyboard-aware-form",
+  "name": "@discontinuity/react-native-keyboard-aware-form-container",
   "version": "0.1.0",
-  "description": "React Native Form which prevents inputs from being hidden by the keyboard in scroll views, and manage tapping outside fields - iOS and Android",
+  "description":
+    "React Native Form which prevents inputs from being hidden by the keyboard in scroll views, and manage tapping outside fields - iOS and Android",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Discontinuity-srl/react-native-keyboard-aware-form.git"
+    "url":
+      "git+https://github.com/Discontinuity-srl/react-native-keyboard-aware-form-container.git"
   },
   "keywords": [
     "react",
@@ -23,9 +25,11 @@
   "author": "Discontinuity s.r.l.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Discontinuity-srl/react-native-keyboard-aware-form/issues"
+    "url":
+      "https://github.com/Discontinuity-srl/react-native-keyboard-aware-form-container/issues"
   },
-  "homepage": "https://github.com/Discontinuity-srl/react-native-keyboard-aware-form#readme",
+  "homepage":
+    "https://github.com/Discontinuity-srl/react-native-keyboard-aware-form-container#readme",
   "dependencies": {
     "@discontinuity/react-native-scroll-view-keyboard-manager": "^0.1.0",
     "react-native-android-keyboard-adjust": "^1.1.1"

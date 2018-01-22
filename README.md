@@ -11,36 +11,36 @@ Features:
 
 ## Installation
 
-```
-npm install @discontinuity/react-native-keyboard-aware-form
-```
+``
+npm install @discontinuity/react-native-keyboard-aware-form-container
 
+````
 ## Usage
 
 ```js
 export class Form extends React.Component {
   import { ScrollView } from "react-native"
-  import KeyboardAwareForm from "@discontinuity/react-native-keyboard-aware-form"
+  import KeyboardAwareFormContainer from "@discontinuity/react-native-keyboard-aware-form-container"
 
 
   render() {
     const { children } = this.props
 
     return (
-      <KeyboardAwareForm containerStyle={styles.keyboardAwareFormStyle}>
+      <KeyboardAwareFormContainer containerStyle={styles.keyboardAwareFormContainertyle}>
          {children}
-      </KeyboardAwareForm>
+      </KeyboardAwareFormContainer>
     )
   }
 }
 
 const styles = StyleSheet.create({
-  keyboardAwareFormStyle: {
+  keyboardAwareFormContainertyle: {
     paddingVertical: 16,
     paddingHorizontal: 32,
   },
 })
-```
+````
 
 ## Props
 
