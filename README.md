@@ -1,4 +1,4 @@
-# react-native-keyboard-aware-form
+# react-native-keyboard-aware-form-container
 
 React Native Form which prevents inputs from being hidden by the keyboard in scroll views, and manage tapping outside fields - iOS and Android
 
