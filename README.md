@@ -11,10 +11,8 @@ Features:
 
 ## Installation
 
-``
-npm install @discontinuity/react-native-keyboard-aware-form-container
+`npm install @discontinuity/react-native-keyboard-aware-form-container`
 
-````
 ## Usage
 
 ```js
@@ -40,7 +38,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 32,
   },
 })
-````
+```
 
 ## Props
 
