@@ -17,7 +17,6 @@ Features:
 
 ```js
 export class Form extends React.Component {
-  import { ScrollView } from "react-native"
   import KeyboardAwareFormContainer from "@discontinuity/react-native-keyboard-aware-form-container"
 
 
