@@ -1,6 +1,6 @@
 {
   "name": "@discontinuity/react-native-keyboard-aware-form-container",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description":
     "React Native Form which prevents inputs from being hidden by the keyboard in scroll views, and manage tapping outside fields - iOS and Android",
   "main": "index.js",
