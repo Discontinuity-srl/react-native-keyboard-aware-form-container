@@ -8,7 +8,7 @@ import {
   Platform,
 } from "react-native"
 import AndroidKeyboardAdjust from "react-native-android-keyboard-adjust"
-import
+
 import ScrollViewKeyboardManager, {
   ANDROID_SOFT_INPUT_MODES,
 } from "@discontinuity/react-native-scroll-view-keyboard-manager"
