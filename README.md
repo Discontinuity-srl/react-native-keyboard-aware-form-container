@@ -16,10 +16,10 @@ Features:
 ## Usage
 
 ```js
+import KeyboardAwareFormContainer from "@discontinuity/react-native-keyboard-aware-form-container"
+
 export class Form extends React.Component {
-  import KeyboardAwareFormContainer from "@discontinuity/react-native-keyboard-aware-form-container"
-
-
+  
   render() {
     const { children } = this.props
 
